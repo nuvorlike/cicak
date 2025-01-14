@@ -3,157 +3,214 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>alicomm</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>kontol</title>
+    <style>
+        /* Basic Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header */
+        header {
+            background: #f4f4f4;
+            padding: 1rem 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        header .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header h1 {
+            color: #333;
+        }
+
+        header nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        header nav ul li {
+            margin-left: 20px;
+        }
+
+        header nav ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: url('mantis.png') no-repeat center center/cover;
+            color: #fff;
+            text-align: center;
+            padding: 100px 20px;
+        }
+
+        .hero h2 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+        }
+
+        .hero button {
+            background: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+
+        /* Features Section */
+        .features {
+            padding: 50px 20px;
+        }
+
+        .features h2 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .feature {
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+
+        .feature img {
+            max-width: 100px;
+            margin-bottom: 10px;
+        }
+
+        /* About Section */
+        .about {
+            background: #f4f4f4;
+            padding: 50px 20px;
+        }
+
+        .about h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* Testimonials Section */
+        .testimonials {
+            padding: 50px 20px;
+        }
+
+        .testimonials h2 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .testimonial {
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+
+        /* Footer */
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
 </head>
-<style>body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f8f9fa;
-}
-
-header {
-    background-color: #343a40;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav ul li {
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-}
-
-.hero {
-    background: url('mantis.png') no-repeat center center/cover;
-    color: white;
-    height: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-.hero-content {
-    background: rgba(0, 0, 0, 0.5);
-    padding: 20px;
-}
-
-.hero h1 {
-    font-size: 48px;
-}
-
-.hero p {
-    font-size: 24px;
-}
-
-section {
-    padding: 20px;
-    text-align: center;
-}
-
-.about, .services, .contact {
-    background-color: white;
-    margin: 20px 0;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.contact form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.contact form input, .contact form textarea {
-    width: 80%;
-    padding: 10px;
-    margin: 10px 0;
-}
-
-.contact form button {
-    padding: 10px 20px;
-    background-color: #343a40;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-footer {
-    background-color: #343a40;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-</style>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
+        <div class="container">
+            <h1>Babylofions</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Features</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Testimonials</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <section id="home" class="hero">
-        <div class="hero-content">
-            <h1>Welcome to kontolan</h1>
-            <p>Your tagline or brief description here.</p>
+    <section class="hero">
+        <div class="container">
+            <h2>Welcome to kontolodon</h2>
+            <p>Your trusted partner in baby care.</p>
+            <button>Learn More</button>
         </div>
     </section>
 
-    <section id="about" class="about">
-        <h2>About Us</h2>
-        <p>Information about your company goes here. Describe your mission, vision, and values.</p>
+    <section class="features">
+        <div class="container">
+            <h2>Our Features</h2>
+            <div class="features-grid">
+                <div class="feature">
+                    <img src="mantis.png" alt="Feature 1">
+                    <h3>Feature 1</h3>
+                    <p>Description of feature 1.</p>
+                </div>
+                <div class="feature">
+                    <img src="mantis.png" alt="Feature 2">
+                    <h3>Feature 2</h3>
+                    <p>Description of feature 2.</p>
+                </div>
+                <div class="feature">
+                    <img src="mantis.png" alt="Feature 3">
+                    <h3>Feature 3</h3>
+                    <p>Description of feature 3.</p>
+                </div>
+            </div>
+        </div>
     </section>
 
-    <section id="services" class="services">
-        <h2>Our Services</h2>
-        <ul>
-            <li>Service 1: Description of service 1.</li>
-            <li>Service 2: Description of service 2.</li>
-            <li>Service 3: Description of service 3.</li>
-        </ul>
+    <section class="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>More information about Babylofions.</p>
+        </div>
     </section>
 
-    <section id="contact" class="contact">
-        <h2>Contact Us</h2>
-        <form>
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <br>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <br>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <br>
-            <button type="submit">Send</button>
-        </form>
+    <section class="testimonials">
+        <div class="container">
+            <h2>Testimonials</h2>
+            <div class="testimonial">
+                <p>"Great service!"</p>
+                <p>- John Doe</p>
+            </div>
+        </div>
     </section>
 
     <footer>
-        <p>&copy; 2023 Babylo Fionsui. All rights reserved.</p>
+        <div class="container">
+            <p>&copy; 2023 kontol. All rights reserved.</p>
+        </div>
     </footer>
 </body>
 </html>
