@@ -11111,7 +11111,7 @@
                   (0, Ne.jsx)("a", {
                     href: "",
                     className: "logo",
-                    children: "$BABYLOFI",
+                    children: "$YetiAI",
                   }),
                   r > 991
                     ? (0, Ne.jsxs)("ul", {
@@ -11146,7 +11146,7 @@
                           }),
                           (0, Ne.jsx)("li", {
                             children: (0, Ne.jsx)(xe, {
-                              to: "https://aftermath.finance/trade?from=SUI&to=0x1e8f1b2d8ccb15f78562ab6ed05fc477d58f9cd46a355d13fbcc2f9a7ce27023%3A%3Ababylofi%3A%3ABABYLOFI",
+                              to: "https://jup.ag",
                               target: "_blank",
                               className: "gs-btn",
                               children: "Buy Now",
@@ -11209,7 +11209,7 @@
                   (0, Ne.jsx)("div", {
                     className: "mobile-nav-item",
                     children: (0, Ne.jsx)("a", {
-                      href: "https://aftermath.finance/trade?from=SUI&to=0x1e8f1b2d8ccb15f78562ab6ed05fc477d58f9cd46a355d13fbcc2f9a7ce27023%3A%3Ababylofi%3A%3ABABYLOFI",
+                      href: "https://https://jup.ag",
                       target: "_blank",
                       className: "open-sans_f",
                       children: "Buy Now",
@@ -11234,8 +11234,8 @@
           (n.p,
           n.p,
           n.p,
-          n.p + "static/media/suiwallet.9d2ecba9a01970e45878.png"),
-        Qe = n.p + "static/media/suicoin.bc38bb50b5f7b077fb18.png",
+          n.p + "static/media/phantom.png"),
+        Qe = n.p + "static/media/solcoin.png",
         Ue = (n.p, n.p + "static/media/dex_s_logo.0041c1aee02b244916c0.png"),
         Me = n.p + "static/media/gk_logo.e15e42e02aa013a17d4a.png",
         Je = n.p + "static/media/cg_logo.d9c113aa00df257d0307.png";
@@ -11274,7 +11274,7 @@
                             "data-aos": "fade-right",
                             "data-aos-duration": "2000",
                             children: (0, Ne.jsx)("h2", {
-                              children: "BABY LOFI",
+                              children: "YetiAI",
                             }),
                           }),
                           (0, Ne.jsxs)("div", {
@@ -11305,7 +11305,7 @@
                             "data-aos": "fade-up",
                             "data-aos-duration": "2000",
                             children: (0, Ne.jsx)("a", {
-                              href: "https://aftermath.finance/trade?from=SUI&to=0x1e8f1b2d8ccb15f78562ab6ed05fc477d58f9cd46a355d13fbcc2f9a7ce27023%3A%3Ababylofi%3A%3ABABYLOFI",
+                              href: "https://https://jup.ag",
                               target: "_blank",
                               className: "btn-1",
                               children: "Buy Now",
@@ -11337,7 +11337,7 @@
                                 }),
                               }),
                               (0, Ne.jsx)("a", {
-                                href: "https://dexscreener.com/sui/0x31454c2d723ac203cccda8597ef458347e2b996770667a407e246673a8bb201c",
+                                href: "https://dexscreener.com",
                                 target: "_blank",
                                 className:
                                   "home-ct-icon-box flex justify-center align-center",
@@ -11347,7 +11347,7 @@
                                 }),
                               }),
                               (0, Ne.jsx)("a", {
-                                href: "https://www.coingecko.com/en/coins/babylofi\\",
+                                href: "https://www.coingecko.com\\",
                                 target: "_blank",
                                 className:
                                   "home-ct-icon-box flex justify-center align-center",
@@ -11357,7 +11357,7 @@
                                 }),
                               }),
                               (0, Ne.jsx)("a", {
-                                href: "https://www.geckoterminal.com/fr/sui-network/pools/0x31454c2d723ac203cccda8597ef458347e2b996770667a407e246673a8bb201c",
+                                href: "https://www.geckoterminal.com",
                                 target: "_blank",
                                 className:
                                   "home-ct-icon-box flex justify-center align-center",
@@ -11382,7 +11382,7 @@
                       (0, Ne.jsx)("div", {
                         className: "htb-header",
                         children: (0, Ne.jsx)("h3", {
-                          children: "How to buy $BABYLOFI",
+                          children: "How to buy $YetiAI",
                         }),
                       }),
                       (0, Ne.jsxs)("div", {
@@ -11403,9 +11403,9 @@
                                     alt: "",
                                   }),
                                 }),
-                                (0, Ne.jsx)("h4", { children: "Sui Wallet" }),
+                                (0, Ne.jsx)("h4", { children: "Solana Wallet" }),
                                 (0, Ne.jsx)("p", {
-                                  children: "To swap $BABYLOFI on sui,",
+                                  children: "To swap $YetiAI on solana,",
                                 }),
                                 (0, Ne.jsx)("a", {
                                   href: "",
@@ -11430,10 +11430,10 @@
                                     alt: "",
                                   }),
                                 }),
-                                (0, Ne.jsx)("h4", { children: "Buy SUI" }),
+                                (0, Ne.jsx)("h4", { children: "Buy SOL" }),
                                 (0, Ne.jsx)("p", {
                                   children:
-                                    "Buy SUI from your sui wallet or any centralized exchange of your choice. You can also get a friend to send you SUI",
+                                    "Buy SOL from your Phantom/BAckpack wallet or any centralized exchange of your choice. You can also get a friend to send you SOL",
                                 }),
                               ],
                             }),
@@ -11453,13 +11453,13 @@
                                   }),
                                 }),
                                 (0, Ne.jsx)("h4", {
-                                  children: "Swap $BABYLOFI on DEX",
+                                  children: "Swap $YetiAI on DEX",
                                 }),
                                 (0, Ne.jsxs)("p", {
                                   children: [
-                                    "Now that you have an SUI in your wallet, you can now swap SUI to $BABYLOFI on ",
+                                    "Now that you have an SOL in your wallet, you can now swap SOL to $YetiAI on ",
                                     (0, Ne.jsx)("a", {
-                                      href: "https://aftermath.finance/trade?from=SUI&to=0x1e8f1b2d8ccb15f78562ab6ed05fc477d58f9cd46a355d13fbcc2f9a7ce27023%3A%3Ababylofi%3A%3ABABYLOFI",
+                                      href: "https://https://jup.ag",
                                       target: "_blank",
                                       children: "dex",
                                     }),
@@ -11490,13 +11490,13 @@
                             (0, Ne.jsx)("h3", { children: "ABOUT" }),
                             (0, Ne.jsxs)("p", {
                               children: [
-                                "My name is BABY LOFI ",
+                                "My name is YetiAI ",
                                 (0, Ne.jsx)("br", {}),
                                 (0, Ne.jsx)("br", {}),
-                                "Baby Lofi is the adorable and mischievous son of #Lofi the Yeti, the legendary YETI of the #Sui Chain.\ud83d\udca7 ",
+                                "YetiAI is the adorable and mischievous son of #Yeti, the legendary YETI of the #Solana Chain.\ud83d\udca7 ",
                                 (0, Ne.jsx)("br", {}),
                                 (0, Ne.jsx)("br", {}),
-                                "Baby Lofi carries the same playful spirit and determination as his father, but with his own unique charm and charisma! ",
+                                "YetiAI carries the same playful spirit and determination as his father, but with his own unique charm and charisma! ",
                                 (0, Ne.jsx)("br", {}),
                                 (0, Ne.jsx)("br", {}),
                                 "I was frozen \ud83e\udd76\u2744\ufe0ffor centuries, but I've awakened and am ready to build a brighter future \ud83e\uddca ",
@@ -11564,7 +11564,7 @@
                                   }),
                                 }),
                                 (0, Ne.jsx)("h2", { children: "Name/Ticker" }),
-                                (0, Ne.jsx)("h3", { children: "$BABYLOFI" }),
+                                (0, Ne.jsx)("h3", { children: "$YetiAI" }),
                               ],
                             }),
                           }),
@@ -11713,14 +11713,14 @@
                       (0, Ne.jsx)("div", {
                         className: "cs-header",
                         children: (0, Ne.jsx)("h2", {
-                          children: "UTILITY BabyLOFI",
+                          children: "UTILITY YetiAI",
                         }),
                       }),
                       (0, Ne.jsx)("div", {
                         className: "utility-box",
                         children: (0, Ne.jsx)("p", {
                           children:
-                            "BabyLOFI is the beloved BABY of LOFI, His mission? To protect animals from the devastating effects of climate change. \ud83e\uddca rallying a community to make a real impact on the environment while innovating on the Sui blockchain.",
+                            "YetiAI is the beloved Yeti of AI, His mission? To protect animals from the devastating effects of climate change. \ud83e\uddca rallying a community to make a real impact on the environment while innovating on the Solana blockchain.",
                         }),
                       }),
                     ],
@@ -11737,7 +11737,7 @@
                         "data-aos": "fade-up",
                         "data-aos-duration": "2000",
                         children: (0, Ne.jsx)("h2", {
-                          children: "BabyLOFI the little Yeti!",
+                          children: "YetiAI the little Yeti!",
                         }),
                       }),
                       (0, Ne.jsxs)("div", {
@@ -11749,13 +11749,13 @@
                           }),
                           (0, Ne.jsxs)("p", {
                             children: [
-                              "\ud83d\ude80 Join the Revolution: Welcome to the Community of SUI Degens! \ud83d\ude80 ",
+                              "\ud83d\ude80 Join the Revolution: Welcome to the Community of Solana Degens! \ud83d\ude80 ",
                               (0, Ne.jsx)("br", {}),
                               (0, Ne.jsx)("br", {}),
-                              "Baby Lofi is the adorable and mischievous son of #Lofi the Yeti, the legendary YETI of the #Sui Chain.\ud83d\udca7 ",
+                              "YetiAI is the adorable and mischievous son of #YEti, the legendary YETI of the #Sui Chain.\ud83d\udca7 ",
                               (0, Ne.jsx)("br", {}),
                               (0, Ne.jsx)("br", {}),
-                              "Baby Lofi carries the same playful spirit and determination as his father, but with his own unique charm and charisma! ",
+                              "YetiAI carries the same playful spirit and determination as his father, but with his own unique charm and charisma! ",
                               (0, Ne.jsx)("br", {}),
                               (0, Ne.jsx)("br", {}),
                               "\ud83c\udf0c The future is here. Be part of it. \ud83c\udf0c",
@@ -11784,7 +11784,7 @@
                     children: (0, Ne.jsxs)("div", {
                       className: "footer-box ",
                       children: [
-                        (0, Ne.jsx)("h2", { children: "$BABYLOFI" }),
+                        (0, Ne.jsx)("h2", { children: "$YetiAI" }),
                         (0, Ne.jsx)("div", {
                           className: "flex justify-center",
                           children: (0, Ne.jsxs)("div", {
@@ -11811,7 +11811,7 @@
                                 }),
                               }),
                               (0, Ne.jsx)("a", {
-                                href: "https://dexscreener.com/sui/0x31454c2d723ac203cccda8597ef458347e2b996770667a407e246673a8bb201c",
+                                href: "https://dexscreener.com",
                                 target: "_blank",
                                 className:
                                   "home-ct-icon-box flex justify-center align-center",
@@ -11821,7 +11821,7 @@
                                 }),
                               }),
                               (0, Ne.jsx)("a", {
-                                href: "https://www.coingecko.com/en/coins/babylofi\\",
+                                href: "https://www.coingecko.com/\\",
                                 target: "_blank",
                                 className:
                                   "home-ct-icon-box flex justify-center align-center",
@@ -11831,7 +11831,7 @@
                                 }),
                               }),
                               (0, Ne.jsx)("a", {
-                                href: "https://www.geckoterminal.com/fr/sui-network/pools/0x31454c2d723ac203cccda8597ef458347e2b996770667a407e246673a8bb201c",
+                                href: "https://www.geckoterminal.com",
                                 target: "_blank",
                                 className:
                                   "home-ct-icon-box flex justify-center align-center",
@@ -11846,7 +11846,7 @@
                         (0, Ne.jsx)("p", {
                           className: "copyright",
                           children:
-                            "BABY LOFI copyright 2024 - All Rights Reserved",
+                            "YetiAI copyright 2025 - All Rights Reserved",
                         }),
                       ],
                     }),
